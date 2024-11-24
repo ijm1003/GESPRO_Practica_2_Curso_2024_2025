@@ -64,6 +64,10 @@ Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
 
 Imagen de conversación en dos tareas (10%)
 
+![image](https://github.com/user-attachments/assets/cbe29827-971f-4a66-b563-fecc486fbb23)
+
+![image](https://github.com/user-attachments/assets/219ab669-54db-4056-a38b-61ffdc56da06)
+
 
 
 
